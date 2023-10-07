@@ -15,3 +15,5 @@ https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-nati
 ``
 https://www.youtube.com/@mariocoxe/videos
 ``
+
+![Imagem](https://github.com/Mario-Coxe/CalculadoraApp/blob/main/assets/image.png)
